@@ -5,6 +5,7 @@
 **Analyst:** Market Research Analyst (Employee 001)  
 **Stage:** Stage 1 — Initial Screening / Problem Discovery  
 **Status:** Complete — awaiting Owner review  
+**Path:** `research/assignments/001-ttrpg-problem-discovery.md`  
 
 This report identifies recurring problems. It does **not** score business opportunities, recommend building a product, or recommend investment.
 

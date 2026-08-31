@@ -14,6 +14,12 @@ Append-only. Newest entry at the top. Record only things that should change futu
 
 ## Entries
 
+### 2026-08-31 — File research assignments under research/assignments/
+- Context: Owner asked that assignment 001 and all following research assignments live in `research/assignments/`.
+- What happened: Moved `001-ttrpg-problem-discovery.md` from `research/reports/` to `research/assignments/` and documented the location in README.
+- Lesson: Numbered research assignments belong in `research/assignments/`, not `research/reports/`.
+- Change to process: Create future assignment write-ups at `research/assignments/NNN-<topic-slug>.md`.
+
 ### 2026-08-31 — Problem-discovery assignment 001
 - Context: First assigned TTRPG problem-discovery report.
 - What happened: Assignment paths were written as `/company/...` and `/research/reports/...`. In this environment those files live under the repository root (`/workspace/company/...`). Several vendor blogs cited unverifiable “surveys.” Some official pricing pages were Cloudflare-blocked.

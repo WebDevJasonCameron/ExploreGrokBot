@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ExploreGrokBot</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+</head>
+<body>
+  <div class="app">
+    <header class="topbar">
+      <div class="brand">
+        <span class="logo">✦</span>
+        <h1>ExploreGrokBot</h1>
+      </div>
+      <span class="mode {{ 'mode-live' if live else 'mode-mock' }}" id="mode-badge">
+        {{ 'LIVE · Grok API' if live else 'OFFLINE MOCK' }}
+      </span>
+    </header>
+
+    <main class="chat" id="chat">
+      <div class="msg bot">
+        <div class="bubble">
+          Hi! I'm ExploreGrokBot. Ask me anything to start exploring.
+        </div>
+      </div>
+    </main>
+
+    <form class="composer" id="composer">
+      <input
+        id="input"
+        type="text"
+        autocomplete="off"
+        placeholder="Type a message and press Enter…"
+        aria-label="Message"
+      />
+      <button type="submit" id="send">Send</button>
+    </form>
+  </div>
+
+  <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>

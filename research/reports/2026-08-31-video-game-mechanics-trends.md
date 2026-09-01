@@ -5,6 +5,7 @@
 **Assignment:** Opportunity discovery — mechanics and player experiences with credible growth signals and realistic openings for a small future game company  
 **Scope constraints (Owner-confirmed):** Steam PC primary; games only; deprioritize multiplayer / live-service unless evidence is exceptional  
 **Status:** Complete — awaiting Owner review  
+**Revision:** 2026-08-31b — reinforced with parallel cluster research (sales confirmations, Bullet Heaven tag, score-chase vs card-combat split)  
 **Path:** `research/reports/2026-08-31-video-game-mechanics-trends.md`
 
 This report identifies mechanics and player experiences. It does **not** authorize game design, product development, or investment.
@@ -21,7 +22,7 @@ This report identifies mechanics and player experiences. It does **not** authori
 
 3. **Analysis (fit filter).** Given Owner constraints (solo / very small team, limited side-venture time, deprioritize multiplayer), **the commercially loudest 2025 pattern (friendslop co-op) is mostly out of scope** for pursuit. The more useful question is which **single-player or async** mechanics still show (a) repeated player spending, (b) room for distinctive expression, and (c) prototype-able scope.
 
-4. **Fact / Observation (crowding in “easy” genres).** Publisher-side commentary in 2026 reported **~250 Balatro-like deckbuilder pitches in 12 months**, with trend cycles described as shortening. How To Market A Game’s 2025 hit survey found **212** Steam releases tagged into **Roguelike Deckbuilder**, of which **11** reached 1,000 reviews (~**5.1%** hit rate). Survivor-likes remain playable commercially for outliers (Megabonk) but sit in a mature, oligopoly-prone space. ([GamesRadar / Krafton exec, published 2026-05-21, accessed 2026-08-31](https://www.gamesradar.com/games/roguelike/subnautica-2-exec-is-tired-of-balatro-likes-says-devs-pitched-maybe-250-roguelike-deckbuilders-in-the-last-12-months/); [How To Market A Game 2025 genre survey, accessed 2026-08-31](https://howtomarketagame.com/2026/01/27/what-the-hell-happened-in-2025/))
+4. **Fact / Observation (crowding in “easy” genres).** Publisher-side commentary in 2026 reported **~250 Balatro-like deckbuilder pitches in 12 months**, with trend cycles described as shortening. How To Market A Game’s 2025 hit survey found **212** Steam releases tagged into **Roguelike Deckbuilder**, of which **11** reached 1,000 reviews (~**5.1%** hit rate). Treat **score-chase “rule-breaker” roguelites** (Balatro → CloverPit / Nubby’s / Ballionaire) as overlapping but distinct from classic **card-combat deckbuilders** (Slay the Spire lineage; StS 2 EA reported **3M copies in week one** by the developer). Survivor-likes / “bullet heaven” remain commercially viable for outliers (Megabonk: solo developer confirmed **1M copies in two weeks**; SteamCharts all-time peak **116,969**) but sit in a mature, clone-punishing space; Valve added an official **Bullet Heaven** Steam tag in May 2026. ([GamesRadar / Krafton exec, published 2026-05-21, accessed 2026-08-31](https://www.gamesradar.com/games/roguelike/subnautica-2-exec-is-tired-of-balatro-likes-says-devs-pitched-maybe-250-roguelike-deckbuilders-in-the-last-12-months/); [How To Market A Game 2025 genre survey, accessed 2026-08-31](https://howtomarketagame.com/2026/01/27/what-the-hell-happened-in-2025/); [Yahoo/PC Gamer / Newzoo on StS 2, accessed 2026-08-31](https://tech.yahoo.com/gaming/articles/analysts-slay-spire-2-best-213247444.html); [GamesIndustry.biz Megabonk, accessed 2026-08-31](https://www.gamesindustry.biz/breakout-hit-megabonk-sells-more-than-a-million-copies-on-steam); [SteamCharts Megabonk, accessed 2026-08-31](https://steamcharts.com/app/3405340); [PC Gamer Bullet Heaven tag, 2026-05-18, accessed 2026-08-31](https://www.pcgamer.com/gaming-industry/its-official-steam-decrees-bullet-heaven-the-name-of-the-vampire-survivors-genre/))
 
 5. **Observation (quieter omnivorous audiences).** By *count of games reaching ≥1,000 reviews* in 2025 (Chris Zukowski / How To Market A Game methodology), top genres included **Narrative (51)**, **Simulation (43)**, **Horror (39)**, **RPG (28)**, **Idle/Incremental (27)**, **Roguelike (22)**, **Management (19)**. These are not “guaranteed markets,” but they indicate **repeat buyers across many titles**, not only winner-take-all spectacles. ([How To Market A Game, accessed 2026-08-31](https://howtomarketagame.com/2026/01/27/what-the-hell-happened-in-2025/))
 
@@ -90,19 +91,19 @@ Approximately ten mechanics / player-experience trends. Each includes stage, sat
 | **Counterevidence** | Many implementations lean multiplayer or content-heavy FPS production; “cute wrapper on extraction” may itself become a clone category |
 | **Solo feasibility** | Moderate only for **single-player or async** extractions with constrained maps; live PvP extraction is out of scope |
 
-### 3.3 Roguelike deckbuilders & “Balatro-likes” (run-based card/system synergies)
+### 3.3 Roguelike deckbuilders & score-chase “rule-breaker” roguelites (two related experiences)
 
 | Field | Content |
 | --- | --- |
-| **Main loop** | Build a deck or scoring engine; survive escalating challenges; chase synergies |
-| **Emotional experience** | Mastery, “broken build” dopamine, short-run satisfaction |
-| **Sessions** | Excellent short sessions; extreme replay via RNG + builds |
-| **Stage** | **Sustained demand / peaking clone supply** |
-| **Saturation** | **Very high** for undifferentiated clones |
-| **Representatives** | Balatro (foundational); many 2025–2026 poker/joker hybrids; older: Slay the Spire |
-| **Evidence** | **Fact (anecdotal industry):** Krafton exec reported ~250 deckbuilder pitches in 12 months (May 2026 coverage). **Observation:** HTMAG 2025: 212 roguelike deckbuilder releases, 11 with ≥1k reviews (5.1%). ([GamesRadar](https://www.gamesradar.com/games/roguelike/subnautica-2-exec-is-tired-of-balatro-likes-says-devs-pitched-maybe-250-roguelike-deckbuilders-in-the-last-12-months/); [HTMAG](https://howtomarketagame.com/2026/01/27/what-the-hell-happened-in-2025/)) |
-| **Counterevidence** | Players still buy excellent entries; hit rate is not zero — but differentiation must be *legible in a thumbnail* |
-| **Solo feasibility** | High for prototype; content (cards/jokers) scales; art can stay minimal if systems shine |
+| **Main loop** | **(A) Score-chase:** play a familiar mini-game (poker, slots, pachinko, etc.) → hit quotas → buy jokers/relics that rewrite rules → break scoring. **(B) Card-combat:** map climb → attack/block energy cards → draft/relics → bosses (Slay the Spire lineage). |
+| **Emotional experience** | (A) number-go-up / “I broke the game”; (B) tactical mastery and build identity |
+| **Sessions** | (A) excellent micro-sessions + clip shareability; (B) medium runs, high replay |
+| **Stage** | (A) **Growing → peaking** demo flood; (B) **Sustained**, with franchise spikes |
+| **Saturation** | **Very high** for undifferentiated clones in both; winners need a thumbnail-legible twist |
+| **Representatives** | (A) Balatro; CloverPit (Sep 2025); Nubby’s Number Factory; Ballionaire. (B) Slay the Spire / **Slay the Spire 2** EA; Monster Train 2 |
+| **Evidence** | **Fact (anecdotal industry):** ~250 deckbuilder pitches / 12 months ([GamesRadar](https://www.gamesradar.com/games/roguelike/subnautica-2-exec-is-tired-of-balatro-likes-says-devs-pitched-maybe-250-roguelike-deckbuilders-in-the-last-12-months/)). **Observation:** HTMAG 2025: 212 roguelike deckbuilder releases, 11 with ≥1k reviews (5.1%) ([HTMAG](https://howtomarketagame.com/2026/01/27/what-the-hell-happened-in-2025/)). **Fact (publisher-reported via GameDiscoverCo):** CloverPit ~**750k units in 2 weeks** ([newsletter](https://newsletter.gamediscover.co/p/real-data-how-cloverpit-hit-750k)). **Fact (developer):** StS 2 **3M copies first week EA** ([Yahoo/PC Gamer / Newzoo summary](https://tech.yahoo.com/gaming/articles/analysts-slay-spire-2-best-213247444.html)). **Fact:** Next Fest repeatedly described as full of Balatro-likes ([PC Gamer](https://www.pcgamer.com/games/roguelike/steam-next-fest-is-full-of-balatro-likes-heres-7-demos-i-think-you-should-try/)). |
+| **Counterevidence** | Excellent distinctive entries still sell; StS 2 shows classic card-combat was not “killed” by Balatro. Differentiation must be obvious in a thumbnail/demo. |
+| **Solo feasibility** | (A) High for prototype; intentional cheap art can work. (B) Harder content/balance load. Multiplayer usually unnecessary. |
 
 ### 3.4 Survivor-likes / bullet-heaven auto-shooters
 
@@ -111,12 +112,12 @@ Approximately ten mechanics / player-experience trends. Each includes stage, sat
 | **Main loop** | Move through arenas; auto-attack; pick upgrades; survive timed waves |
 | **Emotional experience** | Power fantasy escalation; easy entry; “one more run” |
 | **Sessions** | Short-to-medium; high replay |
-| **Stage** | **Mature / oligopoly with rare late breakouts** |
-| **Saturation** | High; many low-effort clones fail |
-| **Representatives** | Vampire Survivors, Brotato, Deep Rock Galactic: Survivor, Megabonk |
-| **Evidence** | **Estimate:** Megabonk reported >1M Steam sales / high peak CCU in GamesIndustry.biz (VG Insights estimates). HTMAG genre-cycle analysis argues VS-likes can reopen after oligopoly periods when a strong differentiator arrives. ([GamesIndustry.biz](https://www.gamesindustry.biz/breakout-hit-megabonk-sells-more-than-a-million-copies-on-steam); [HTMAG cycle](https://howtomarketagame.com/2025/11/12/the-cycle-of-a-hit-genre/)) |
-| **Counterevidence** | Steep drop from top few to the long tail; discovery depends on visible twist + polish |
-| **Solo feasibility** | Prototype feasible; content volume (weapons, characters, maps) and juice/VFX expectations are the real costs |
+| **Stage** | **Sustained / mature** (past clone gold rush; still capable of breakouts) |
+| **Saturation** | **Very high for reskins; selective for distinct hooks** |
+| **Representatives** | Vampire Survivors, Brotato, Deep Rock Galactic: Survivor, Megabonk, Vital Shell (Jan 2026 solo success story in practitioner coverage) |
+| **Evidence** | **Fact (developer):** Megabonk **1M copies in 2 weeks**; SteamCharts all-time peak **116,969** ([GamesIndustry.biz](https://www.gamesindustry.biz/breakout-hit-megabonk-sells-more-than-a-million-copies-on-steam); [SteamCharts](https://steamcharts.com/app/3405340)). **Fact:** Valve added official **Bullet Heaven** Steam tag (May 2026) ([PC Gamer](https://www.pcgamer.com/gaming-industry/its-official-steam-decrees-bullet-heaven-the-name-of-the-vampire-survivors-genre/)). HTMAG argues the genre still works with polish + identity, not as a beginner “easy win” ([HTMAG Vital Shell](https://howtomarketagame.com/2026/05/19/2026-state-of-bullet-heavens-how-vital-shell-succeeded/); [HTMAG cycle](https://howtomarketagame.com/2025/11/12/the-cycle-of-a-hit-genre/)). |
+| **Counterevidence** | Steep drop from top few to the long tail; reskins are punished; discovery depends on visible twist + polish |
+| **Solo feasibility** | Prototype feasible; content volume and juice/VFX expectations are the real costs; solo hits exist but are exceptions |
 
 ### 3.5 Spatial inventory / placement-synergy combat (“backpack tetris”)
 
@@ -128,9 +129,9 @@ Approximately ten mechanics / player-experience trends. Each includes stage, sat
 | **Stage** | **Sustained / still under-copied relative to deckbuilders** (relative statement) |
 | **Saturation** | Moderate; Backpack Battles defined a clear peak; fewer endless clones than card roguelikes in discourse |
 | **Representatives** | Backpack Battles (async PvP + modes); RE-style inventory tension in survival horror as adjacent fantasy |
-| **Evidence** | **Fact (developer-reported):** Furcifer announced 100k copies in first ~2 days of EA (Mar 2024) per PC Gamer / Game World Observer. **Fact:** 1.0 release Jun 2025 on Steam; continued updates. ([PC Gamer](https://www.pcgamer.com/games/action/steams-latest-breakout-indie-hit-is-a-fantasy-autobattler-about-how-many-magic-items-you-can-fit-in-your-backpack/); [Steam store](https://store.steampowered.com/app/2427700/Backpack_Battles/)) |
-| **Counterevidence** | Flagship success leans on **async multiplayer ghosts**; pure SP variants less proven at the same scale |
-| **Solo feasibility** | Strong: 2D UI-centric; systems-heavy; art can be iconic/simple; fits Owner programming strengths |
+| **Evidence** | **Fact (developer-reported):** Furcifer announced 100k copies in first ~2 days of EA (Mar 2024) ([PC Gamer](https://www.pcgamer.com/games/action/steams-latest-breakout-indie-hit-is-a-fantasy-autobattler-about-how-many-magic-items-you-can-fit-in-your-backpack/)). **Fact (studio interview via WN Hub):** ~**640k in first EA month** ([WN Hub](https://wnhub.io/news/investment/item-43352)). **Fact:** SteamCharts peak **36,348** ([SteamCharts](https://steamcharts.com/app/2427700)). **Fact:** 1.0 Jun 2025; publisher materials later claim **1M+** worldwide (treat as publisher claim) ([Shochiku PDF](https://game.shochiku.co.jp/wp-content/uploads/2026/03/20260327_BPBverEN-3.pdf); [Steam store](https://store.steampowered.com/app/2427700/Backpack_Battles/)). Clone wave rising (multiple “Backpack ___” titles). **(Observation)** |
+| **Counterevidence** | Flagship success leans on **async multiplayer ghosts**; SP-focused Backpack Hero under-delivered relative to BPB scale **(Inference)** from review/traction gap |
+| **Solo feasibility** | Strong for SP prototype (2D UI, systems-heavy). Async PvP balance/matchmaking is **harder** for solo; item-pool content burden is high (BPB markets 500+ items) |
 
 ### 3.6 Tight turn-based positioning tactics (puzzle-combat)
 
@@ -233,7 +234,7 @@ Filter applied: Steam PC; games only; deprioritize live multiplayer; solo/small-
 | **Target players** | Buildcrafters who like autobattlers, puzzle-roguelikes, and theorycrafting; short-session Steam Deck players |
 | **Unresolved problems** | SP campaigns that stay deep without PvP ghosts; teaching spatial rules without walls of text; content pipelines for hundreds of items without feeling like a clone of Backpack Battles |
 | **Major risks** | Comparison shopping vs Backpack Battles; if async PvP is needed for retention, operating/community burden rises |
-| **Disconfirming evidence** | If SP prototypes show steep retention drop vs async PvP norms; if store visibility requires streamer PvP drama |
+| **Disconfirming evidence** | If SP prototypes show steep retention drop vs async PvP norms; if store visibility requires streamer PvP drama; if SP backpack games continue to trail BPB-scale outcomes after more comps are surveyed |
 
 ### S2 — Tight turn-based positioning tactics (distinct verb, small board)
 
@@ -389,13 +390,22 @@ Access date for all URLs below unless noted: **2026-08-31**.
 
 21. https://app.cinevva.com/signals/2026-03-11-steam-next-fest-discovery-data — Feb 2026 Next Fest wishlist distribution claims  
 22. https://www.immutable.com/insights/how-many-wishlists-is-good-for-steam-next-fest — Follower/wishlist estimate methodology (estimates)  
+23. https://newsletter.gamediscover.co/p/real-data-how-cloverpit-hit-750k — CloverPit publisher-reported early sales  
+24. https://steamcharts.com/app/3405340 — Megabonk concurrent peaks  
+25. https://steamcharts.com/app/2427700 — Backpack Battles concurrent peaks  
+26. https://wnhub.io/news/investment/item-43352 — Backpack Battles first-month EA sales interview  
+27. https://www.pcgamer.com/gaming-industry/its-official-steam-decrees-bullet-heaven-the-name-of-the-vampire-survivors-genre/ — Official Bullet Heaven tag  
+28. https://www.pcgamer.com/games/roguelike/steam-next-fest-is-full-of-balatro-likes-heres-7-demos-i-think-you-should-try/ — Next Fest Balatro-like saturation  
+29. https://tech.yahoo.com/gaming/articles/analysts-slay-spire-2-best-213247444.html — StS 2 week-one performance summary  
+30. https://howtomarketagame.com/2026/05/19/2026-state-of-bullet-heavens-how-vital-shell-succeeded/ — 2026 bullet-heaven state / Vital Shell  
+31. https://game.shochiku.co.jp/wp-content/uploads/2026/03/20260327_BPBverEN-3.pdf — Backpack Battles publisher 1M claim materials  
 
 ### Company documents used for fit (repository)
 
-23. `company/mission.md`  
-24. `company/opportunity-criteria.md`  
-25. `company/owner-context.md`  
-26. `agents/market-research-analyst/instructions.md`  
+32. `company/mission.md`  
+33. `company/opportunity-criteria.md`  
+34. `company/owner-context.md`  
+35. `agents/market-research-analyst/instructions.md`  
 
 ---
 

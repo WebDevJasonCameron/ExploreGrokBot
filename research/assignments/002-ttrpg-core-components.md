@@ -5,6 +5,7 @@
 **Analyst:** Opportunity Researcher / Market Research Analyst (Employee 001)  
 **Stage:** Structural taxonomy / component inventory  
 **Status:** Complete — awaiting Owner review  
+**Revision:** 2026-09-01b — D&D SRD 5.2.1 vs 5.1 (pantheons/planes dropped from current legal SRD)  
 **Path:** `research/assignments/002-ttrpg-core-components.md`
 
 This report asks whether popular tabletop RPGs can be dissected into shared components and how those components might be organized. It is **not** an opportunity scorecard, product pitch, or reactivation of any prior TTRPG software initiative.
@@ -20,7 +21,7 @@ Constraint: free public sources only; no paid sites, no outreach.
 
 **Most important findings**
 
-1. **Fact.** Free rule documents already *categorize* play. D&D SRD 5.1 groups races, classes, backgrounds, equipment, ability scores, spellcasting, combat, conditions, magic items, monsters, pantheons, and planes. Pathfinder 2e’s Archives of Nethys split Player Core vs GM Core and further into ancestries, classes, skills, feats, equipment, spells, encounter/exploration/downtime modes, world-building (nations, settlements, planes), factions-adjacent subsystems, and treasure. Fate, Blades, and Cairn SRDs do the same with different labels. ([D&D SRD TOC](https://dnd-srd-sphinx.readthedocs.io/en/latest/index.html); [Archives of Nethys Rules](https://2e.aonprd.com/Rules.aspx); [Fate SRD](https://fate-srd.com/); [Blades basics](https://bladesinthedark.com/basics/); [Cairn SRD](https://cairnrpg.com/first-edition/cairn-srd/))
+1. **Fact.** Free rule documents already *categorize* play. The current D&D legal SRD is **5.2.1** (2024 rules): Playing the Game, Character Creation, Classes, Character Origins (species + backgrounds), Feats, Equipment, Spells, Rules Glossary, Gameplay Toolbox, Magic Items, Monsters, Animals. SRD **5.1** (2014) still listed races, pantheons, and planes; 5.2 **removed** Fantasy-Historical Pantheons and The Planes of Existence as “not rules-bearing,” renaming races to species. Pathfinder 2e’s Archives of Nethys split Player Core vs GM Core and further into ancestries, classes, skills, feats, equipment, spells, encounter/exploration/downtime modes, world-building (nations, settlements, planes), factions-adjacent subsystems, and treasure. Fate, Blades, and Cairn SRDs do the same with different labels. ([D&D Beyond SRD hub](https://www.dndbeyond.com/srd); [SRD 5.2.1 PDF](https://media.dndbeyond.com/compendium-images/srd/5.2/SRD_CC_v5.2.1.pdf); [SRD 5.1 TOC](https://dnd-srd-sphinx.readthedocs.io/en/latest/index.html); [Archives of Nethys Rules](https://2e.aonprd.com/Rules.aspx); [Fate SRD](https://fate-srd.com/); [Blades basics](https://bladesinthedark.com/basics/); [Cairn SRD](https://cairnrpg.com/first-edition/cairn-srd/))
 
 2. **Observation.** Across the corpus, four *kinds* of thing keep appearing, not one flat list:
    - **Table / social procedure** (who speaks, GM vs player authority, principles, session shape)
@@ -51,7 +52,7 @@ The investigation started from **documents and existing theory**, not from a pro
 
 ## 3. Method and Evidence Standards
 
-**Window:** Sources accessed 2026-09-01; game texts spanning current free SRDs (5e SRD 5.1; PF2e Nethys; Fate; Blades; Cairn 1e; CoC 7e Quick-Start).
+**Window:** Sources accessed 2026-09-01; game texts spanning current free SRDs (D&D SRD 5.2.1 and 5.1; PF2e Nethys; Fate; Blades; Cairn 1e; CoC 7e Quick-Start).
 
 **Signals used**
 
@@ -116,23 +117,23 @@ The investigation started from **documents and existing theory**, not from a pro
 
 ## 5. Corpus Maps
 
-### 5.1 D&D 5e — SRD 5.1 (CC-BY-4.0)
+### 5.1 D&D 5e — SRD 5.2.1 (current) and 5.1 (2014)
 
-**Fact.** Free SRD sections include: Races (racial traits); Classes; Beyond 1st Level / Multiclassing; Alignment; Languages; Inspiration; Backgrounds; Equipment (coins, armor, weapons, gear, mounts, expenses); Feats; Using Ability Scores (checks, advantage, saving throws); Spellcasting and spell lists; Adventuring/Combat-related rules in the SRD body; Traps; Diseases; Madness; Objects; Poisons; Gamemastering; Conditions; Fantasy-Historical Pantheons; The Planes of Existence; Magic items; Monsters. ([Sphinx TOC of SRD 5.1](https://dnd-srd-sphinx.readthedocs.io/en/latest/index.html); [Wizards SRD page / CC PDF](https://dnd.wizards.com/resources/systems-reference-document))
+**Fact.** Two free legal SRDs exist. **SRD 5.2.1** (CC-BY-4.0; 2024 rules) top-level: Playing the Game (rhythm of play; d20 tests; actions; social interaction; exploration; combat; damage/healing); Character Creation; Classes; Character Origins (backgrounds + **species**); Feats; Equipment (incl. weapon masteries); Spells; Rules Glossary (actions, conditions, hazards, initiative, rest); Gameplay Toolbox (travel, curses/contagions, environment, fear/mental stress, poison, traps, combat encounters); Magic Items; Monsters; Animals. **SRD 5.1** additionally had Races (incl. Half-Elf/Half-Orc), Inspiration, Diseases/Madness appendices, **Fantasy-Historical Pantheons**, and **The Planes of Existence**. Wizards’ 5.1↔5.2 table states pantheons and planes were removed as not rules-bearing. The free D&D Beyond Basic Rules 2024 HTML adds explicit DM chapters (“What Does a DM Do?”, session prep) that the SRD PDF folds into Toolbox/Monsters; Wizards note Basic Rules is **not** the SRD. ([D&D Beyond SRD hub](https://www.dndbeyond.com/srd); [SRD 5.2.1 PDF](https://media.dndbeyond.com/compendium-images/srd/5.2/SRD_CC_v5.2.1.pdf); [SRD 5.1 TOC](https://dnd-srd-sphinx.readthedocs.io/en/latest/index.html); [Basic Rules 2024](https://www.dndbeyond.com/sources/dnd/br-2024))
 
 **Mapping to Owner headings (Analysis)**
 
-| Owner heading | SRD clusters |
+| Owner heading | SRD 5.2.1 clusters |
 | --- | --- |
-| Characters | Races, classes, backgrounds, alignment, languages, ability scores, feats |
-| Game Mechanics | Ability checks, saves, advantage, combat, spellcasting procedures, conditions, inspiration |
-| Objects | Equipment, magic items, objects, poisons |
-| Lore | Alignment-in-the-multiverse notes, pantheons, planes (thin vs full setting books) |
-| Systems (in-world) | Weak in SRD; pantheons/planes hint at cosmology more than governments |
-| Story | Almost absent as a chapter; “gamemastering” + traps/madness as situation tools |
-| Groups / relations | Backgrounds (Acolyte etc.) imply factions; no first-class “relationship” system |
+| Characters | Species, classes, backgrounds, alignment, languages, ability scores, feats |
+| Game Mechanics | D20 tests, advantage, actions/bonus/reactions, combat, spellcasting, conditions, heroic inspiration, weapon masteries |
+| Objects | Equipment, magic items, crafting potions/scrolls |
+| Lore | **Almost none in 5.2** (language names, creature types, class fiction). Pantheons/planes were 5.1-only |
+| Systems (in-world) | Travel/hazards/rests/attitudes; **no** faction, settlement, kingdom, or downtime-activity subsystem |
+| Story | Rhythm of Play + three pillars (social/exploration/combat); Toolbox encounter tools; little plotted-adventure structure |
+| Groups / relations | Party + NPC attitudes (Friendly/Indifferent/Hostile) + Influence action; hirelings; no first-class faction system |
 
-**Missing vs full D&D books (Inference from SRD omissions):** extensive setting gazetteers, many subclasses, downtime optional rules, adventure structure. SRD is **rules + creature/item catalogs + light cosmology**.
+**Missing vs full D&D books (Inference from SRD omissions):** setting gazetteers, most subclasses, downtime optional rules, adventure structure. **Analysis:** 5.2 is a **generic-fantasy rules chassis**. That is evidence that “lore” is optional in a *legal* component list even for the hobby’s most popular game — unlike PF2e, where Golarion is in Player Core.
 
 ### 5.2 Pathfinder 2e — Archives of Nethys (free)
 
@@ -365,31 +366,33 @@ Access date **2026-09-01** unless noted.
 
 ### Primary / free game texts
 
-1. https://dnd.wizards.com/resources/systems-reference-document — D&D SRD 5.1 (CC-BY-4.0)  
-2. https://dnd-srd-sphinx.readthedocs.io/en/latest/index.html — SRD 5.1 table of contents reconstruction  
-3. https://2e.aonprd.com/Rules.aspx — Pathfinder 2e Archives of Nethys rules index  
-4. https://www.chaosium.com/content/FreePDFs/CoC/CHA23131%20Call%20of%20Cthulhu%207th%20Edition%20Quick-Start%20Rules.pdf — CoC 7e Quick-Start (free)  
-5. https://bladesinthedark.com/basics/ — Blades SRD overview  
-6. https://bladesinthedark.com/core-system — Blades core rolls and session cycle  
-7. https://bladesinthedark.com/actions-attributes — Actions and attributes  
-8. https://bladesinthedark.com/node/33 — SRD vs setting IP  
-9. https://fate-srd.com/ — Fate SRD hub  
-10. https://fate-srd.com/fate-core/basics — Fate Core basics  
-11. https://cairnrpg.com/first-edition/cairn-srd/ — Cairn 1e SRD (CC-BY-SA 4.0)
+1. https://www.dndbeyond.com/srd — D&D SRD hub (5.1 and 5.2.1; CC-BY-4.0)  
+2. https://media.dndbeyond.com/compendium-images/srd/5.2/SRD_CC_v5.2.1.pdf — SRD 5.2.1 PDF  
+3. https://dnd-srd-sphinx.readthedocs.io/en/latest/index.html — SRD 5.1 table of contents reconstruction  
+4. https://www.dndbeyond.com/sources/dnd/br-2024 — Basic Rules 2024 (free HTML; not the SRD)  
+5. https://2e.aonprd.com/Rules.aspx — Pathfinder 2e Archives of Nethys rules index  
+6. https://www.chaosium.com/content/FreePDFs/CoC/CHA23131%20Call%20of%20Cthulhu%207th%20Edition%20Quick-Start%20Rules.pdf — CoC 7e Quick-Start (free)  
+7. https://bladesinthedark.com/basics/ — Blades SRD overview  
+8. https://bladesinthedark.com/core-system — Blades core rolls and session cycle  
+9. https://bladesinthedark.com/actions-attributes — Actions and attributes  
+10. https://bladesinthedark.com/node/33 — SRD vs setting IP  
+11. https://fate-srd.com/ — Fate SRD hub  
+12. https://fate-srd.com/fate-core/basics — Fate Core basics  
+13. https://cairnrpg.com/first-edition/cairn-srd/ — Cairn 1e SRD (CC-BY-SA 4.0)
 
 ### Academic / theory (free)
 
-12. https://analoggamestudies.org/2024/10/a-tri-heuristic-ontological-approximation-of-tabletop-rpgs/ — Bastarrachea-Magnani, Meritano, León, Analog Game Studies 11.3 (2024)  
-13. https://www.cristoleon.com/project/a-tri-heuristic-ontological-approximation-of-tabletop-rpgs/ — Same paper, project page  
-14. https://dl.digra.org/index.php/dl/article/download/973/973/970 — Aarseth & Grabarczyk, DiGRA ontological meta-model  
-15. https://en.wikipedia.org/wiki/GNS_theory — GNS summary + links to Edwards Forge essays  
-16. https://rpgmuseum.fandom.com/wiki/Big_Model — Big Model nested boxes (secondary)  
-17. https://creo.sae.edu.au/cgi/viewcontent.cgi?article=1024&context=postgraduate — Open thesis applying MDA to TRPGs (secondary use of MDA)
+14. https://analoggamestudies.org/2024/10/a-tri-heuristic-ontological-approximation-of-tabletop-rpgs/ — Bastarrachea-Magnani, Meritano, León, Analog Game Studies 11.3 (2024)  
+15. https://www.cristoleon.com/project/a-tri-heuristic-ontological-approximation-of-tabletop-rpgs/ — Same paper, project page  
+16. https://dl.digra.org/index.php/dl/article/download/973/973/970 — Aarseth & Grabarczyk, DiGRA ontological meta-model  
+17. https://en.wikipedia.org/wiki/GNS_theory — GNS summary + links to Edwards Forge essays  
+18. https://rpgmuseum.fandom.com/wiki/Big_Model — Big Model nested boxes (secondary)  
+19. https://creo.sae.edu.au/cgi/viewcontent.cgi?article=1024&context=postgraduate — Open thesis applying MDA to TRPGs (secondary use of MDA)
 
 ### Company documents
 
-18. `agents/market-research-analyst/instructions.md`  
-19. `company/opportunity-criteria.md` (not scored; assignment was taxonomy-only)
+20. `agents/market-research-analyst/instructions.md`  
+21. `company/opportunity-criteria.md` (not scored; assignment was taxonomy-only)
 
 ---
 

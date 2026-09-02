@@ -5,7 +5,7 @@
 **Analyst:** Opportunity Researcher / Market Research Analyst (Employee 001)  
 **Stage:** Structural taxonomy / component inventory  
 **Status:** Complete — awaiting Owner review  
-**Revision:** 2026-09-01b — D&D SRD 5.2.1 vs 5.1 (pantheons/planes dropped from current legal SRD)  
+**Revision:** 2026-09-01c — additional free academic/designer citations for Owner review  
 **Path:** `research/assignments/002-ttrpg-core-components.md`
 
 This report asks whether popular tabletop RPGs can be dissected into shared components and how those components might be organized. It is **not** an opportunity scorecard, product pitch, or reactivation of any prior TTRPG software initiative.
@@ -389,10 +389,31 @@ Access date **2026-09-01** unless noted.
 18. https://rpgmuseum.fandom.com/wiki/Big_Model — Big Model nested boxes (secondary)  
 19. https://creo.sae.edu.au/cgi/viewcontent.cgi?article=1024&context=postgraduate — Open thesis applying MDA to TRPGs (secondary use of MDA)
 
+### Additional free theory, adventure-structure, and data-model sources (for later review)
+
+These did not change the five-layer conclusion. They are listed because the assignment asked for academic and designer sources the Owner can open later.
+
+20. http://www.indie-rpgs.com/articles/1/ — Edwards, “GNS and Other Matters of Role-playing Theory”  
+21. http://www.indie-rpgs.com/_articles/system_does_matter.html — Edwards, “System Does Matter”  
+22. http://indie-rpgs.com/_articles/glossary.html — Edwards, “The Provisional Glossary” (Big Model component list; Lumpley Principle)  
+23. https://www.darkshire.net/jhkim/rpg/theory/threefold/ — Threefold Model (GDS) FAQ  
+24. https://dl.digra.org/index.php/dl/article/view/136 — Zagal et al., Game Ontology Project (DiGRA 2005)  
+25. https://arxiv.org/html/2007.06108v2 — Guzdial et al., “Tabletop Roleplaying Games as Procedural Content Generators” (FDG 2020)  
+26. https://thealexandrian.net/wordpress/1118/roleplaying-games/three-clue-rule — Justin Alexander, Three Clue Rule  
+27. https://thealexandrian.net/wordpress/7949/roleplaying-games/node-based-scenario-design-part-1-the-plotted-approach — Node-based scenario design  
+28. https://slyflourish.com/eight_steps_2023.html — Mike Shea, Eight Steps of Lazy DM prep  
+29. https://www.dungeonworldsrd.com/gamemastering/fronts/ — Dungeon World Fronts (PbtA GM prep objects)  
+30. https://www.roleplayingtips.com/5-room-dungeons/ — Johnn Four, 5-Room Dungeon  
+31. https://pelgranepress.com/2020/10/16/see-page-xx-how-to-design-for-gumshoe/ — Laws, GUMSHOE investigation structure  
+32. https://foundryvtt.com/article/system-data-models/ — Foundry VTT document types (implemented Actor/Item ontology)  
+33. https://paizo.com/blog/orc-license-the-final-version-is-here — ORC license (legal split: mechanics vs reserved setting/IP)  
+34. https://lumpley.games/2019/12/30/powered-by-the-apocalypse-part-1/ — Vincent Baker, PbtA concentric design  
+35. http://apocalypse-world.com/ — Apocalypse World free playbooks / MC sheets
+
 ### Company documents
 
-20. `agents/market-research-analyst/instructions.md`  
-21. `company/opportunity-criteria.md` (not scored; assignment was taxonomy-only)
+36. `agents/market-research-analyst/instructions.md`  
+37. `company/opportunity-criteria.md` (not scored; assignment was taxonomy-only)
 
 ---
 

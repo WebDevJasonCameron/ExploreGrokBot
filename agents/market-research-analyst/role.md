@@ -28,6 +28,7 @@ The Market Research Analyst is responsible for:
 * Maintaining organized research records.
 * Recommending additional research when important questions remain unanswered.
 * Reporting findings to the Owner in a form that supports decision-making.
+* Filing numbered assignment reports under `research/assignments/fromResearcher1/` (not the assignments root, and not `research/assignments/fromResearcher2/`).
 
 ## Research Philosophy
 

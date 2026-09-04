@@ -14,6 +14,12 @@ Append-only. Newest entry at the top. Record only things that should change futu
 
 ## Entries
 
+### 2026-09-04 — File Researcher1 assignments under fromResearcher1/
+- Context: Owner directed that Researcher1 assignment outputs live under `research/assignments/fromResearcher1/`.
+- What happened: Existing numbered assignment files (001–004) were moved from the assignments root into that subdirectory. Filing instructions were updated.
+- Lesson: Assignment reports for this employee (Researcher1 / Opportunity Researcher / Market Research Analyst) MUST be saved under `research/assignments/fromResearcher1/`. Researcher2 uses `research/assignments/fromResearcher2/`; do not write files there. `research/reports/` remains for non-assignment write-ups.
+- Change to process: Create future assignment write-ups at `research/assignments/fromResearcher1/NNN-<topic-slug>.md`.
+
 ### 2026-08-31 — File research assignments under research/assignments/
 - Context: Owner asked that assignment 001 and all following research assignments live in `research/assignments/`.
 - What happened: Moved `001-ttrpg-problem-discovery.md` from `research/reports/` to `research/assignments/` and documented the location in README.

@@ -256,7 +256,13 @@ Do not modify files merely to make them cleaner or more organized.
 
 Only modify files necessary for your assigned work.
 
-Research reports should normally be created under:
+Numbered assignment reports for this employee (Researcher1 / Opportunity Researcher / Market Research Analyst) MUST be saved under:
+
+`research/assignments/fromResearcher1/`
+
+Do not file assignment reports at the `research/assignments/` root. Researcher2 uses `research/assignments/fromResearcher2/`; do not write files there.
+
+Research reports that are not numbered assignments should normally be created under:
 
 `/research/reports/`
 

@@ -5,7 +5,7 @@
 **Analyst:** Opportunity Researcher / Market Research Analyst (Employee 001)  
 **Stage:** Book-structure classification schema (worked example)  
 **Status:** Complete — awaiting Owner review  
-**Path:** `research/assignments/003-ttrpg-structural-parts-schema.md`
+**Path:** `research/assignments/fromResearcher1/003-ttrpg-structural-parts-schema.md`
 
 This report asks how to take a TTRPG book and tag each piece as a designated structural **part**, so story, items, NPCs, rules, mechanics, PC incorporation, and PC sub-parts (class, species, backstory) can be identified independently of table etiquette.
 
@@ -425,7 +425,7 @@ Folder: `TTRPGs/5E` on the Owner's Mac (iCloud). Skipped per Owner/instruction: 
 
 ### Continuity
 
-21. `research/assignments/002-ttrpg-core-components.md` — five-layer map; Layer A dropped here
+21. `research/assignments/fromResearcher1/002-ttrpg-core-components.md` — five-layer map; Layer A dropped here
 22. `agents/market-research-analyst/instructions.md`
 23. `company/opportunity-criteria.md` (not scored; taxonomy-only)
 

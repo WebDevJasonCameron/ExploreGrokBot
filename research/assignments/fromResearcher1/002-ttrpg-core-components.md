@@ -6,7 +6,7 @@
 **Stage:** Structural taxonomy / component inventory  
 **Status:** Complete — awaiting Owner review  
 **Revision:** 2026-09-01c — additional free academic/designer citations for Owner review  
-**Path:** `research/assignments/002-ttrpg-core-components.md`
+**Path:** `research/assignments/fromResearcher1/002-ttrpg-core-components.md`
 
 This report asks whether popular tabletop RPGs can be dissected into shared components and how those components might be organized. It is **not** an opportunity scorecard, product pitch, or reactivation of any prior TTRPG software initiative.
 

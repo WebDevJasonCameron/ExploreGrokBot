@@ -5,7 +5,7 @@
 **Analyst:** Opportunity Researcher / Market Research Analyst (Employee 001)  
 **Stage:** Book-structure classification + character-relation recording  
 **Status:** Complete — awaiting Owner review  
-**Path:** `research/assignments/004-gygax-structural-parts-and-character-relations.md`
+**Path:** `research/assignments/fromResearcher1/004-gygax-structural-parts-and-character-relations.md`
 
 This report asks whether the Assignment 003 heading-walk still classifies the Owner's whole `TTRPGs/DnD/Gygax` folder, and how named beings should be recorded as relations without minting a social network.
 
@@ -475,8 +475,8 @@ Books named for edge strength or product identity, without a separate filename i
 
 ### Continuity
 
-18. `research/assignments/003-ttrpg-structural-parts-schema.md` — vocabulary and tagging procedure
-19. `research/assignments/002-ttrpg-core-components.md` — five-layer map; Layer A remains dropped
+18. `research/assignments/fromResearcher1/003-ttrpg-structural-parts-schema.md` — vocabulary and tagging procedure
+19. `research/assignments/fromResearcher1/002-ttrpg-core-components.md` — five-layer map; Layer A remains dropped
 20. `agents/market-research-analyst/instructions.md`
 
 ---

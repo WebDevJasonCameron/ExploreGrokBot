@@ -128,7 +128,7 @@ Severity: **High** = data loss, security RCE/path escape, or trust-breaking corr
    Pattern: write temp in same directory → sync file → rename over target → sync directory when durability matters (campaign notes users care about). Same-filesystem rename only. **[Verified Fact]**
 
 2. **Directory-based watching + reconcile loop**  
-   External editors (VS Code, Obsidian, Vim variants) often save via temp+rename, replacing inodes. File-level watches go silent; directory watches survive. Debounce, then hash/mtime reconcile into memory + SQLite. Re-subscribe on errors. Joplin’s public Chokidar throttle issues show even mature apps miss rapid external edits without careful tuning. **[Verified Fact / Observation]**
+   External editors (VS Code, Obsidian, Vim variants) often save via temp+rename, replacing inodes. File-level watches go silent; directory watches survive. Debounce, then hash/mtime reconcile into memory + SQLite. Re-subscribe on errors. Joplin’s public Chokidar throttle issues show even mature apps miss rapid external edits without careful queueing. **[Verified Fact / Observation]**
 
 3. **Conflict detection for dirty buffers**  
    If disk changed since load, block blind overwrite; offer reload / overwrite / save-as-conflict-copy. Peer pattern: Obsidian Sync conflict copies with device+timestamp naming. **[Observation]**
@@ -266,7 +266,7 @@ Convention: `attachments/<id>-<slug>.ext` or parallel folder per entity. Store h
 
 ### 6.11 Cross-platform paths
 
-Never persist `C:\...` inside content. Symlinks: decide allowlist policy (follow within vault only). APFS/Windows case folding: prevent two IDs mapping via case collision on filenames.
+Never persist `C:\\...` inside content. Symlinks: decide allowlist policy (follow within vault only). APFS/Windows case folding: prevent two IDs mapping via case collision on filenames.
 
 ### 6.12 Electron IPC design
 

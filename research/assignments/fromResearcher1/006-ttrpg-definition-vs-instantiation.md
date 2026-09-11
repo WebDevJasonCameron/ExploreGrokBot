@@ -189,7 +189,7 @@ One short subsection each. The question is always: **what does this free text tr
 
 **Fact.** OSE prints **demihuman classes**: Dwarf, Elf, Halfling are classes with their own HD, level caps, and (for Elf) spell tables — not an ancestry multiplied by Fighter/Wizard. ([OSE SRD: Dwarf](https://oldschoolessentials.necroticgnome.com/srd/index.php/Dwarf); [Elf](https://oldschoolessentials.necroticgnome.com/srd/index.php/Elf); [Halfling](https://oldschoolessentials.necroticgnome.com/srd/index.php/Halfling))
 
-**Fact.** OSE monsters list **Number Appearing (NA)** as two values (dungeon wandering vs lair/wilderness), scaled by HD and locale. ([OSE SRD: Game Statistics (Monsters)](https://oldschoolessentials.necroticgnome.com/srd/index.php/Game_Statistics_(Monsters)))
+**Fact.** OSE monsters list **Number Appearing (NA)** as two values (dungeon wandering vs lair/wilderness), scaled by HD and locale. ([OSE SRD: Game Statistics (Monsters)](https://oldschoolessentials.necroticgnome.com/srd/index.php/Game_Statistics_%28Monsters%29))
 
 **Analysis.** Both are catalog-shaped, but the catalogs disagree. OSE: class (including demihuman-as-class) and monster type (HD+NA) are definitions; a keyed room’s 2d4 goblins are instances. Cairn: the spell **definition** lives on an **item instance** (this book in this slot); the bestiary is short fiction plus a recipe more than a PF2 block.
 
@@ -612,7 +612,7 @@ Access date **2026-09-10**. No copyrighted adventure prose is quoted.
 39. https://oldschoolessentials.necroticgnome.com/srd/index.php/Dwarf  
 40. https://oldschoolessentials.necroticgnome.com/srd/index.php/Elf  
 41. https://oldschoolessentials.necroticgnome.com/srd/index.php/Halfling  
-42. https://oldschoolessentials.necroticgnome.com/srd/index.php/Game_Statistics_(Monsters)  
+42. https://oldschoolessentials.necroticgnome.com/srd/index.php/Game_Statistics_%28Monsters%29  
 
 ### Company documents (not scored)
 

@@ -266,7 +266,7 @@ Convention: `attachments/<id>-<slug>.ext` or parallel folder per entity. Store h
 
 ### 6.11 Cross-platform paths
 
-Never persist `C:\\...` inside content. Symlinks: decide allowlist policy (follow within vault only). APFS/Windows case folding: prevent two IDs mapping via case collision on filenames.
+Never persist `C:\...` inside content. Symlinks: decide allowlist policy (follow within vault only). APFS/Windows case folding: prevent two IDs mapping via case collision on filenames.
 
 ### 6.12 Electron IPC design
 
